@@ -5,7 +5,7 @@ This project is a web system developed as part of the ITE03 course activity. It 
 
 ## Group Members and Roles
 - Leader: Marcelino D. Flovera
-- Frontend Developer: Fernando A. Florez
+- Frontend Developer: Fernando A. Lopez Jr.
 - Backend Developers:
   - Marcelino D. Flovera
   - Rasec Arvin DR. Apostol
@@ -41,5 +41,5 @@ This project was developed by the BSIT-3C ITE03 group members:
 - Jhian M. Salonga - Documentation
 - Rasec Arvin DR. Apostol - Backend Developer
 - Marcelino D. Flovera - Backend Developer / Leader
-- Fernando A. Florez - Frontend Developer
+- Fernando A. Lopez Jr. - Frontend Developer
 - Mark Joel M. Zafra - UI Designer
